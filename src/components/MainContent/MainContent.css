@@ -1,0 +1,12 @@
+.mainContent{
+    background-color: darkgray;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap: 2rem;
+    padding: 2em;
+}
+
+.contentContainer{
+    display: flex;
+}

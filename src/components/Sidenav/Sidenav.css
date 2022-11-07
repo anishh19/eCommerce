@@ -1,0 +1,14 @@
+ul{
+    padding: 0;
+}
+li{
+    list-style-type: none;
+
+}
+
+.sidenav{
+    width: 15%;
+    background-color: #37B9F1;
+    height: 100%;
+    display: inline-block;
+}
